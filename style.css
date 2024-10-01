@@ -1,0 +1,32 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 5px 0 5px;
+    list-style: none;
+    cursor: pointer;
+
+}
+li:hover{
+    background-color: chocolate;
+}
+.capa{
+    display: flex;
+    justify-content: center;
+}
+
+.select{
+    background-color: chocolate;
+}
