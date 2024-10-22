@@ -5,6 +5,8 @@ body {
 header {
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    align-items: center;
 
 }
 
@@ -19,14 +21,19 @@ nav ul li {
     cursor: pointer;
 
 }
-li:hover{
-    background-color: chocolate;
-}
+
 .capa{
     display: flex;
     justify-content: center;
 }
 
 .select{
-    background-color: chocolate;
+    /* background-color: chocolate; */
+    border-bottom: 2px solid chocolate
+
+}
+
+a{
+    text-decoration: none;
+    color:black;
 }
