@@ -40,3 +40,12 @@ a{
 p{
     text-align: justify;
 }
+.criativo img {
+    width: 600px;
+
+}
+.criativo{
+    align-items: center;
+    display: flex; 
+    flex-direction: column;
+}
