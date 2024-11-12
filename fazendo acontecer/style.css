@@ -38,3 +38,13 @@ p{
     text-align: justify;
 
 }
+.inovar img{
+    width: 600px;
+
+}
+
+.inovar{
+    align-items: center;
+    display: flex; 
+    flex-direction: column;
+}
