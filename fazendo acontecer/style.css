@@ -22,10 +22,6 @@ nav ul li {
 
 }
 
-.capa{
-    display: flex;
-    justify-content: center;
-}
 
 .select{
     /* background-color: chocolate; */
@@ -36,4 +32,9 @@ nav ul li {
 a{
     text-decoration: none;
     color:black;
+}
+
+p{
+    text-align: justify;
+
 }
