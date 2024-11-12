@@ -37,3 +37,15 @@ a{
     text-decoration: none;
     color:black;
 }
+
+.ImagemPerfil{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ImagemPerfil img{ 
+    width: 100px;
+    border-radius: 50%;
+
+}
