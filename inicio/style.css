@@ -22,56 +22,66 @@ nav ul li {
 
 }
 
-.capa{
+.capa {
     display: flex;
     justify-content: center;
 }
 
-.select{
+.select {
     /* background-color: chocolate; */
     border-bottom: 2px solid chocolate
-
 }
 
-a{
+a {
     text-decoration: none;
-    color:black;
+    color: black;
 }
 
-.ImagemPerfil{
+.ImagemPerfil {
     width: 100%;
     display: flex;
     align-items: center;
-    justify-content:center;
-   
+    justify-content: center;
+
 }
 
-.ImagemPerfil img{ 
+.ImagemPerfil img {
     width: 100px;
     border-radius: 50%;
 
 }
-.ImagemPerfil h1{
+
+.ImagemPerfil h1 {
     margin-left: 150px;
 }
-.card{
+
+.card {
     width: 300px;
     height: auto;
     background-color: rgba(0, 0, 0, 0.13);
     padding: 10px;
     margin: 10px;
     border-radius: 15px;
-}
-.card img{
-width: 300px
+    display: flex;
+    flex-direction: column;
+/* justify-content: center; */
+text-align:justify;
+
 }
 
-section{
+.card img {
+    width: 300px;
+    border-radius: 15px;
+    height: 150px
+}
+
+section {
     margin-bottom: 20px;
 }
 
-.cards{
+.cards {
     display: flex;
     flex-wrap: wrap;
-   justify-content: center;
+    justify-content: center;
 }
+
