@@ -1,87 +1,82 @@
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 header {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-
+  display: flex;
+  /* justify-content: center; */
+  flex-direction: column;
+  /* align-items: center; */
 }
 
 nav ul {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 nav ul li {
-    margin: 0 5px 0 5px;
-    list-style: none;
-    cursor: pointer;
-
+  margin: 0 5px 0 5px;
+  list-style: none;
+  cursor: pointer;
 }
 
 .capa {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .select {
-    /* background-color: chocolate; */
-    border-bottom: 2px solid chocolate
+  /* background-color: chocolate; */
+  border-bottom: 2px solid chocolate;
 }
 
 a {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
 }
 
 .ImagemPerfil {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .ImagemPerfil img {
-    width: 100px;
-    border-radius: 50%;
-
+  width: 100px;
+  border-radius: 50%;
 }
 
 .ImagemPerfil h1 {
-    margin-left: 150px;
+  margin-left: 150px;
 }
 
 .card {
-    width: 300px;
-    height: auto;
-    background-color: rgba(0, 0, 0, 0.13);
-    padding: 10px;
-    margin: 10px;
-    border-radius: 15px;
-    display: flex;
-    flex-direction: column;
-/* justify-content: center; */
-text-align:justify;
-
+  width: 300px;
+  height: auto;
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s;
 }
 
 .card img {
-    width: 300px;
-    border-radius: 15px;
-    height: 150px
+  width: 300px;
+  border-radius: 15px;
+  height: 150px;
 }
 
 section {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .cards {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
-
