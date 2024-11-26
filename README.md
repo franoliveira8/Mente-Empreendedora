@@ -9,4 +9,4 @@ Os empreendedores são visionários que, movidos por paixão e determinação, d
 
 Acesse meu link
 
- [meu-blog](https://franoliveira8.github.io/meu-blog/inicio/index.html)
+ [Click aqui e acesse](https://franoliveira8.github.io/Mente-Empreendedora/inicio/index.html)
