@@ -1,7 +1,4 @@
-# meu-blog
-Repositório para os arquivos para construção do meu blog
-
-
+# Mente Empreendedora
 
 
 Empreendedorismo: A Arte de Transformar Sonhos em Realidade
@@ -12,4 +9,4 @@ Os empreendedores são visionários que, movidos por paixão e determinação, d
 
 Acesse meu link
 
-https://franoliveira8.github.io/meu-blog/inicio/index.html
+[https://franoliveira8.github.io/meu-blog/inicio/index.html]
